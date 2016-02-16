@@ -10,14 +10,14 @@ display: block;
 text-align: center;
 }
 
-.letter{
+.dog{
 display: block;
-margin-left: 360px;
+margin-left: 380px;
 }
 
 .speakbubble {
 display: block;
-margin-left: 535px;
+margin-left: 555px;
 margin-top: -450px;
 
 }
@@ -59,8 +59,16 @@ color: #000033;
   display: block;
   text-align: center;
   margin-top: 20px;
-  margin-right: 5px;
-  margin-left: 10px;
+  margin-right: 0px;
+  margin-left: 20px;
+}
+
+.photo2{
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+  margin-right: 0px;
+  margin-left: 70px;
 }
 
 .unterschrift {
@@ -77,8 +85,21 @@ text-align: center;
 margin-top: 40px;
 margin-left: 250px;
 margin-right: 250px;
-font-family: monospace;
+font-family:monospace;
 color: #000000;
+}
+
+.tumblr {
+  display: block;
+
+  margin-top: 250px;
+  margin-left: 650px;
+}
+
+.facebook {
+  display: block;
+  margin-top: -120px;
+  margin-left: 600px;
 }
 
 #box { text-align: center }
